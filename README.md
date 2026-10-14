@@ -10,7 +10,6 @@
 
 [![Email](https://img.shields.io/badge/Email-zz7y24%40soton.ac.uk-0E7490?style=flat-square&logo=gmail&logoColor=white)](mailto:zz7y24@soton.ac.uk)
 [![GitHub](https://img.shields.io/badge/GitHub-Lugu200510-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/Lugu200510)
-![Profile views](https://komarev.com/ghpvc/?username=Lugu200510&label=Profile+views&color=0e7490&style=flat-square)
 
 </div>
 
