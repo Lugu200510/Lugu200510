@@ -35,8 +35,8 @@ Electronic Engineering undergraduate focused on **digital hardware, semiconducto
 <div align="center">
 
 ![Verilog](https://img.shields.io/badge/Verilog%20%2F%20SystemVerilog-RTL-0891B2?style=flat-square)
-![FPGA](https://img.shields.io/badge/FPGA-Quartus%20%7C%20%Vivado%20%7C%20%ModelSim-0F766E?style=flat-square)
-![EDA](https://img.shields.io/badge/EDA-VCS%20%7C%20Verdi%20%7C%20%S-Edit%20%7C%20%L-Edit-334155?style=flat-square)
+![FPGA](https://img.shields.io/badge/FPGA-Quartus%20%7C%20Vivado%20%7C%20ModelSim-0F766E?style=flat-square)
+![EDA](https://img.shields.io/badge/EDA-VCS%20%7C%20Verdi%20%7C%20S--Edit%20%7C%20L--Edit-334155?style=flat-square)
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,linux,git,vscode" alt="Python, C, C++, Linux, Git, VS Code" />
 
