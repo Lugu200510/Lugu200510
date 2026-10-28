@@ -42,10 +42,3 @@ Electronic Engineering undergraduate focused on **digital hardware, semiconducto
 
 </div>
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lugu200510&show_icons=true&hide_border=true&theme=transparent)
-
-</div>
