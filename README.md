@@ -23,13 +23,6 @@ Electronic Engineering undergraduate focused on **digital hardware, semiconducto
 **Robotics Test Intern** · *Guangzhou LiGong Industrial Co., Ltd.*  
 *Jul–Sep 2025* · Autonomous mobile robotics, navigation, positioning, vision guidance, and system testing.
 
-## 🔧 Selected Projects
-
-- **IC Tape-Out:** Digital circuit design, layout verification, and post-silicon testing in a team chip project.
-- **FIFO Verification:** SystemVerilog self-checking testbench, assertions, and functional coverage.
-- **16-Tap FPGA FIR Filter:** Sequential MAC implementation and verification on DE1-SoC (Cyclone V).
-- **Smart Stadium Seat Node:** Raspberry Pi Pico 2 interface, sensor integration, and RS-485 communication.
-
 ## 💻 Skills & Tools
 
 <div align="center">
