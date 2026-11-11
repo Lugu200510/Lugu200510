@@ -15,14 +15,6 @@
 
 Electronic Engineering undergraduate focused on **digital hardware, semiconductor design, and embedded systems**, with hands-on experience in **IC design & verification, FPGA development, and robotics testing**.
 
-## 💼 Experience
-
-**Digital IC Design & Verification Intern** · *Greater Bay Area Institute of Integrated Circuits and System Applications*  
-*Jun–Aug 2026* · RTL design, SoC verification, simulation, coverage analysis, and memory-interface IP.
-
-**Robotics Test Intern** · *Guangzhou LiGong Industrial Co., Ltd.*  
-*Jul–Sep 2025* · Autonomous mobile robotics, navigation, positioning, vision guidance, and system testing.
-
 ## 💻 Skills & Tools
 
 <div align="center">
